@@ -1,30 +1,30 @@
-# Privacy Policy for HackerN  
+# HackerN Gizlilik Politikası  
 
-**Effective Date:** 26.03.2025  
+**Geçerlilik Tarihi:** 26.03.2025  
 
-## 1. Introduction  
-Welcome to **HackerN**! Your privacy is important to us. This Privacy Policy explains how we handle any information when you use our app.  
+## 1. Giriş  
+**HackerN**’ye hoş geldiniz! Gizliliğiniz bizim için önemlidir. Bu Gizlilik Politikası, uygulamamızı kullandığınızda nasıl bilgi topladığımızı ve kullandığımızı açıklar.  
 
-## 2. Information We Collect  
-HackerN **does not** collect, store, or share any personal data. The app fetches technology news from **Hacker News (news.ycombinator.com)** but does not track your activity.  
+## 2. Topladığımız Bilgiler  
+HackerN **hiçbir şekilde** kişisel veri toplamaz, depolamaz veya paylaşmaz. Uygulama, **Hacker News (news.ycombinator.com)**'dan teknoloji haberlerini alır ancak sizin faaliyetlerinizi takip etmez.  
 
-## 3. How We Use Information  
-Since we do not collect any user data, there is no information used, stored, or shared.  
+## 3. Bilgileri Nasıl Kullanıyoruz  
+Kişisel veri toplamadığımız için, kullanılan, depolanan veya paylaşılan herhangi bir bilgi yoktur.  
 
-## 4. Third-Party Services  
-HackerN displays content from **Hacker News** but does not interact with their servers beyond fetching publicly available data. Please review Hacker News' privacy policy for more details:  
+## 4. Üçüncü Taraf Hizmetleri  
+HackerN, **Hacker News**'dan içerik görüntüler ancak yalnızca herkese açık verileri almak için sunucuları ile etkileşime girer. Daha fazla bilgi için Hacker News gizlilik politikasını inceleyebilirsiniz:  
 [https://news.ycombinator.com](https://news.ycombinator.com).  
 
-## 5. Data Security  
-Since we do not collect or store user data, there are no security risks related to personal information in this app.  
+## 5. Veri Güvenliği  
+Kişisel veri toplamadığımız için, bu uygulamada kişisel bilgiyle ilgili herhangi bir güvenlik riski bulunmamaktadır.  
 
-## 6. Changes to This Privacy Policy  
-We may update this Privacy Policy from time to time. Any changes will be reflected on this page.  
+## 6. Bu Gizlilik Politikasındaki Değişiklikler  
+Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Herhangi bir değişiklik, bu sayfada yansıtılacaktır.  
 
-## 7. Contact Us  
-If you have any questions about this Privacy Policy, you can contact us at:  
+## 7. Bizimle İletişime Geçin  
+Bu Gizlilik Politikası hakkında herhangi bir sorunuz varsa, bizimle iletişime geçebilirsiniz:  
 📧 kutlu.eren26@gmail.com
 
 ---
 
-© 2025 Kutlu Eren. All rights reserved.
+© 2025 Kutlu Eren. Tüm hakları saklıdır.
